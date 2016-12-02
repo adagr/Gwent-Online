@@ -1,0 +1,65 @@
+24/2 1.62
+Added clear and sort function to the deckbuilder
+Fixed resolution quality issue
+
+??? 1.61
+Added Unity Analytics that doesn't seem to work...
+
+5/2-16 1.6
+Added WebGL support!
+
+9/7
+Fixed another scorch bug
+
+Version 1.5
+8/7
+Added ability to redraw two cards at the start of a game
+Fixed a bug that caused both players to think it was the other players turn
+Fixed cards not moving to the right position
+Fixed a bug when you play a spy and your deck is empty
+
+Version 1.4
+7/7
+Added Nilfgaardian Empire leader cards
+6/7
+Added Northern Realms leader cards
+5/7
+Fixed another scorch bug
+Fixed a bug with Dandelion
+------------------------------
+4/7
+Created gwentonline.club
+
+2/7
+Fixed one scorch bug, not sure if it's working as it should now
+Some networking changes
+
+12/6
+Added special ability: Scorch
+Added all Neutral, Northern Realms and Nilfgaardian Empire cards
+Added Chat
+
+11/6
+Added Hover effect
+Added new card placement mechanic
+Added card info
+Fixed deck builder bug
+Fixed some minor bugs
+
+10/6
+Added faction abilities
+Added some nilfgaardian empire cards
+Extended deck builder
+
+9/6
+Added Northern Realms starting deck
+Improved deck builder
+
+8/6
+Added Hover effect
+Removed Hover effect - bugs everywhere
+Added deck builder
+
+7/6
+Added special ability: Morale, Spy, Medic, Double Strength
+Added more cards

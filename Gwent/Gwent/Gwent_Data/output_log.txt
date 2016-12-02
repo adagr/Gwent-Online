@@ -1,0 +1,32 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Cloud.Analytics.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Cloud.Analytics.dll into Unity Child Domain
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Cloud.Analytics.Util.dll (this message is harmless)
+Loading J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\UnityEngine.Cloud.Analytics.Util.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: J:\Unity\Projects\Gwent\Gwent\Gwent\Gwent\Gwent_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1154 at 0,-74
+<RI> Initializing input.
+<RI> Input initialized.
